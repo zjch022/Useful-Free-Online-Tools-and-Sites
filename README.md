@@ -438,7 +438,7 @@ List of some useful free online tools and sites
 - [**Ezgif - Effects** - (*Add effects to images*)](https://ezgif.com/effects) 
 - [**Ezgif - GIF Maker** - (*Online GIF maker and image editor*)](https://ezgif.com/maker)
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
-- - [**Fotools - Free images converter** - (*Convert images to AVIF*)](https://www.fotools.com/tools/image-convert-avif)
+- [**Fotools - Free images converter** - (*Convert images to AVIF*)](https://www.fotools.com/tools/image-convert-avif)
 - [**Free Image Merger** - (*Merge images side by side, stacked, in a grid, or freestyle in the browser without uploading files*)](https://freeimagemerger.com)
 - [**HEICtoJPEG** - (*Convert HEIC photos to JPEGs*)](https://heictojpg.com/)
 - [**HEICtoPNG** - (*Convert HEIC photos to PNGs*)](https://convertio.co/en/heic-png/)
